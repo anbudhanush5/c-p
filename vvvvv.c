@@ -2,6 +2,7 @@
 #include<conio.h>
 int main()
 {
+    clrscr;
     double n1, n2, n3;
 
     printf("Enter three different numbers: ");
